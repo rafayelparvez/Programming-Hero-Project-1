@@ -1,4 +1,4 @@
-# Programming-Hero-Project-1
-Progect of programming hero.
+# Programming-Hero-Assignment-1
+Assignment of programming hero.
 
 https://rafayelparvez.github.io/Programming-Hero-Project-1/
